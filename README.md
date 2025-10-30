@@ -1,2 +1,2 @@
 # Snake
-This is source code of Snake game provided by Scpk code editor app.
+This is source code of Snake game provided by Spck code editor app.
